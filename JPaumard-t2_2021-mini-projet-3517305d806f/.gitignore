@@ -1,0 +1,11 @@
+# IntelliJ technical files
+.idea/
+out/
+*.iml
+
+# Eclipse technical files
+.project
+.classpath
+bin/
+.settings/
+.metadata/
