@@ -1,0 +1,31 @@
+# Situation 01
+Starting time is 07:13:54
+End of day is 08:30:00
+Elevator 1 starts at floor 4
+Elevator 2 starts at floor 5
+Waiting list is now:
+People waiting on floor 1
+	Larry arrived at 06:32:21 [waited for 41mn 33s] going to 10
+	Harold arrived at 06:38:03 [waited for 35mn 51s] going to 7
+	Donna arrived at 06:49:30 [waited for 24mn 24s] going to 6
+	Jeffrey arrived at 07:00:21 [waited for 13mn 33s] going to 3
+	Kevin arrived at 07:07:51 [waited for 6mn 3s] going to 7
+People waiting on floor 2
+	No one
+People waiting on floor 3
+	No one
+People waiting on floor 4
+	No one
+People waiting on floor 5
+	No one
+People waiting on floor 6
+	No one
+People waiting on floor 7
+	No one
+People waiting on floor 8
+	Gerald arrived at 07:13:54 [waited for 0s] going to 7
+People waiting on floor 9
+	No one
+People waiting on floor 10
+	No one
+
